@@ -1,10 +1,17 @@
 # python-todo-list-for-beginners
-🚀 Learn Python by building a simple To-Do List app! Designed for beginners, this project will help you understand programming fundamentals step by step while creating something useful.
-✅ Aplikasi Todo List Python CLI 🚀. Dibuat untuk pemula agar lebih mudah memahami dasar-dasar coding python.
-# 📝 Todo List dengan Python
 
-Proyek ini adalah aplikasi **Todo List sederhana berbasis terminal** yang ditulis dengan **Python**.
-Tujuannya adalah untuk membantu **pemula** memahami dasar-dasar pemrograman Python melalui latihan membuat aplikasi nyata.
+🚀 Belajar Python dengan membangun aplikasi sederhana **To-Do List** berbasis terminal!
+Proyek ini dirancang khusus untuk **pemula** agar lebih mudah memahami dasar-dasar Python langkah demi langkah sambil membuat sesuatu yang berguna.
+
+> ℹ️ Catatan:
+> Kode dan dokumentasi README ini dibuat dengan bantuan **AI (Artificial Intelligence)** lalu disesuaikan agar lebih mudah dipahami oleh pemula.
+
+---
+
+## 📝 Tentang Proyek
+
+Aplikasi ini adalah **Todo List sederhana berbasis CLI (Command Line Interface)**.
+Tujuannya: membantu **pemula** memahami konsep dasar pemrograman Python melalui praktik langsung.
 
 ---
 
@@ -28,34 +35,67 @@ Tujuannya adalah untuk membantu **pemula** memahami dasar-dasar pemrograman Pyth
 
 ---
 
+## ⚙️ Instalasi Python
+
+Sebelum menjalankan program, pastikan **Python 3** sudah terinstal.
+Berikut cara instalasi sesuai sistem operasi:
+
+### Windows
+
+1. Unduh installer dari situs resmi: [python.org/downloads](https://www.python.org/downloads/)
+2. Jalankan installer, lalu **centang opsi "Add Python to PATH"** sebelum klik Install.
+3. Setelah selesai, cek instalasi dengan membuka Command Prompt dan ketik:
+
+   ```bash
+   python --version
+   ```
+
+### macOS
+
+1. Buka **Terminal**.
+2. Instal Python melalui Homebrew:
+
+   ```bash
+   brew install python
+   ```
+3. Cek versi:
+
+   ```bash
+   python3 --version
+   ```
+
+### Linux (Ubuntu/Debian)
+
+1. Buka **Terminal**.
+2. Jalankan perintah:
+
+   ```bash
+   sudo apt update
+   sudo apt install python3
+   ```
+3. Cek versi:
+
+   ```bash
+   python3 --version
+   ```
+
+---
+
 ## ▶️ Cara Menjalankan
 
-1. Pastikan **Python 3** sudah terinstal di komputer Anda.
-
-   * Cek dengan perintah:
-
-     ```bash
-     python --version
-     ```
-   * atau
-
-     ```bash
-     python3 --version
-     ```
-
-2. Clone repositori ini:
+1. Clone repositori ini:
 
    ```bash
    git clone https://github.com/NAMA_USERNAME_KAMU/todo-list-python.git
    ```
 
-3. Masuk ke folder proyek:
+2. Masuk ke folder proyek:
 
    ```bash
    cd todo-list-python
    ```
 
-4. Jalankan program:
+3. Jalankan program:
 
    ```bash
    python todo_list.py
@@ -66,6 +106,9 @@ Tujuannya adalah untuk membantu **pemula** memahami dasar-dasar pemrograman Pyth
    ```bash
    python3 todo_list.py
    ```
+
+> ✅ Tidak perlu instal library tambahan (`pip install`).
+> Program ini hanya menggunakan **modul bawaan Python**.
 
 ---
 
@@ -109,4 +152,11 @@ Silakan **fork** repositori ini dan buat pull request jika ingin menambahkan fit
 ## 📜 Lisensi
 
 Proyek ini dirilis dengan lisensi **MIT License**.
-Artinya, siapa pun bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini, selama menyertakan atribusi.
+Siapa pun bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini, selama menyertakan atribusi.
+
+## 📸 Screenshot program
+<img width="901" height="193" alt="image" src="https://github.com/user-attachments/assets/d827ea9b-83ff-443e-92fd-3bd14bd5c4a1" />
+<img width="1167" height="688" alt="image" src="https://github.com/user-attachments/assets/a06edbce-596e-4ab8-a88f-50f371798b81" />
+<img width="1087" height="303" alt="image" src="https://github.com/user-attachments/assets/b2e711cb-3a38-47d6-a34c-ec1c000884ba" />
+<img width="998" height="215" alt="image" src="https://github.com/user-attachments/assets/13199126-f700-48cc-ab61-51e81f25205a" />
+<img width="1137" height="845" alt="image" src="https://github.com/user-attachments/assets/166bb8a1-2a7f-4619-9c09-0c16f9da406c" />
