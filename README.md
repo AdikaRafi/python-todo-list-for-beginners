@@ -86,7 +86,7 @@ Berikut cara instalasi sesuai sistem operasi:
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/AdikaRafi/todo-list-python.git
+   git clone https://github.com/AdikaRafi/python-todo-list-for-beginners.git
    ```
 
 2. Masuk ke folder proyek:
