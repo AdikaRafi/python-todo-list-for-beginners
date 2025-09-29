@@ -28,7 +28,7 @@ Tujuannya: membantu **pemula** memahami konsep dasar pemrograman Python melalui 
 ## 📂 Struktur Proyek
 
 ```
-📦 todo-list-python
+📦 python-todo-list-for-beginners
  ┣ 📜 todo_list.py   # kode utama aplikasi
  ┣ 📜 README.md      # dokumentasi proyek
 ```
